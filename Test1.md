@@ -1,6 +1,6 @@
 # Lab 1: Data Modeling
 
-## Scenario v3
+## Scenario v5
 
 Bellows College is an educational organization with multiple campuses and programs. Many of Bellow Colleges instructors and administrators need to attend events, and purchase items. Historically tracking these expenses has been a challenge. 
 
@@ -62,7 +62,7 @@ The **Expense Report** table will contain information about individual expenses 
 
 	1. Select **Save**.
 
-1. ### Create Expense Type Column
+1. #### Create Expense Type Column
 
 	1. Select **+ New column**.
 
@@ -80,43 +80,43 @@ The **Expense Report** table will contain information about individual expenses 
 
 	1. Select **Save**.
 
-### Create Expense Purpose Column
+1. ### Create Expense Purpose Column
 
-1. Select **+ New column**.
+	1. Select **+ New column**.
 
-1. Enter Expense Purpose for **Display name**.
+	1. Enter Expense Purpose for **Display name**.
 
-1. Select **Choice** for **Data type**.
+	1. Select **Choice** for **Data type**.
 
-1. In **Required**, select **Optional**.
+	1. In **Required**, select **Optional**.
 
-1. Set **Sync with global Choice** to **Yes (recommended)**
+	1. Set **Sync with global Choice** to **Yes (recommended)**
 
-1. In **Sync this choice with** field, select **Expense Purpose**.
+	1. In **Sync this choice with** field, select **Expense Purpose**.
 
-1. Set the **Default** field to **None**.
+	1. Set the **Default** field to **None**.
 
-1. Select **Save**.
+	1. Select **Save**.
 
-### Create Item Description column
+1. ### Create Item Description column
 
-1. Select **+ New column**.
+	1. Select **+ New column**.
 
-1. Enter Item Description for **Display name**.
+	1. Enter Item Description for **Display name**.
 
-1. Select **Multiple Lines of text &gt; Plain Text** for **Data type**.
+	1. Select **Multiple Lines of text &gt; Plain Text** for **Data type**.
 
-1. Select **Save**.
+	1. Select **Save**.
 
-### Create Expense Amount column
+1.  ### Create Expense Amount column
 
-1. Select **+ New column**.
+	1. Select **+ New column**.
 
-1. Enter Expense Amount for **Display name**.
+	1. Enter Expense Amount for **Display name**.
 
-1. Select **Currency** for **Data type**.
+	1. Select **Currency** for **Data type**.
 
-1. Select **Save**.
+	1. Select **Save**.
 
  
 ## Exercise 2: Enter data
@@ -125,13 +125,7 @@ The **Expense Report** table will contain information about individual expenses 
 
 ### Task #1: Modify the columns displayed
 
-1. If not already signed in, sign in to https://make.powerapps.com
-
-1. Select the **Dev One** environment at the top right if it is not already selected.
-
-1. Using the navigation on the left, select **Tables**.
-
-1. Open the **Expense** table created in the previous exercise.
+1. Open the **Expense Report** table.
 
 1. Next to the **Name** column, select **+26 more**.
 
