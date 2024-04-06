@@ -1,11 +1,11 @@
-remote_theme: pages-themes/cayman@v0.2.0
+# remote_theme: pages-themes/cayman@v0.2.0
 # remote_theme: pages-themes/dinky@v0.2.0
-# remote_theme: MicrosoftLearning/Jekyll-Theme
+remote_theme: MicrosoftLearning/Jekyll-Theme
 exclude:
   - readme.md
   - .github/
-header_pages:
-  - header1.html
+#header_pages:
+#  - header1.html
 author: Tyler Farmer
 plugins:
   - jekyll-sitemap
