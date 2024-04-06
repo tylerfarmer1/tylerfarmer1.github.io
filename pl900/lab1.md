@@ -1,6 +1,6 @@
 # PL-900 - Lab 1 - Data Modeling
 
-## Scenario v8
+## Scenario v9.1
 
 Bellows College is an educational organization with multiple campuses and programs. Many of Bellow Colleges instructors and administrators need to attend events, and purchase items. Historically tracking these expenses has been a challenge. 
 
@@ -40,25 +40,29 @@ The **Expense Report** table will contain information about individual expenses 
 
 1. Under the **Schema** section, select **Columns**.
 
+
 ### Task #2: Create Columns
+#### 1. Create Expense Date Column
+- Create a column named "Expense Date" that is type Date Only
+- Set it to "Business Required".
+- Also set the the "Time Zone Adjustment" as "Date Only."
 
-1. #### Create Expense Date column
+<details>
+<summary>Click here to expand these instructions if you need step-by-step guidance.</summary>
 
-	1. Select **+ New column**.
+1. Select **+ New column**.
+1. Enter Expense Date for **Display name**.
+1. Select **Date only** for **Data type**.
+1. Change **Required**, to **Business required**.
+1. Expand **Advanced options**.
+1. In **Time zone adjustment**, select **Date Only**.
 
-	1. Enter Expense Date for **Display name**.
+**Note:** We use **Date only** behavior to record date information, because date of the Expense Report should not change when viewed from a different time zone.
 
-	1. Select **Date only** for **Data type**.
+7. Select **Save**.
+</details>
 
-	1. Change **Required**, to **Business required**.
 
-	1. Expand **Advanced options**.
-
-	1. In **Time zone adjustment**, select **Date Only**.
-
-	>**Note:** We use **Date only** behavior to record date information, because date of the Expense Report should not change when viewed from a different time zone.
-
-	1. Select **Save**.
 
 1. #### Create Expense Type Column
 
