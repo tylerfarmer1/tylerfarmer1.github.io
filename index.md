@@ -1,5 +1,5 @@
 # Please select a course below
-
+v2.4
 
 ## [PL-900 - Power Platform Fundamentals](https://tylerfarmer1.github.io/pl900/index)
 
