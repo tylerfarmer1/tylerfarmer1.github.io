@@ -1,21 +1,9 @@
-# Please select a course below v4
-
-Here is PL-900 at [PL-900](https://tylerfarmer1.github.io/pl900/pl900) and you'll see that lab
+# Please select a course below
 
 
-## Here is PL-900 at [PL-900](https://tylerfarmer1.github.io/pl900/pl900) and you'll see that lab
+### [PL-900](https://tylerfarmer1.github.io/pl900/pl900)
 
+##### [PL-100](https://tylerfarmer1.github.io/pl100/pl100)
 
-### Here is PL-900 at [PL-900](https://tylerfarmer1.github.io/pl900/pl900) and you'll see that lab
+## [PL-200](https://tylerfarmer1.github.io/pl200/pl200)
 
-
-#### Here is PL-900 at [PL-900](https://tylerfarmer1.github.io/pl900/pl900) and you'll see that lab
-
-
-
-
-
-### Shorter link with pl900.md: PL-900 at [PL-900](/pl900/pl900.md) and you'll see that lab
-
-
-### Shorter link not using the .md: PL-900 at [PL-900](/pl900/pl900) and you'll see that lab
