@@ -1,6 +1,6 @@
 # Lab 1: Data Modeling
 
-## Scenario
+## Scenario v2
 
 Bellows College is an educational organization with multiple campuses and programs. Many of Bellow Colleges instructors and administrators need to attend events, and purchase items. Historically tracking these expenses has been a challenge. 
 
@@ -139,13 +139,13 @@ The **Expense Report** table will contain information about individual expenses 
 
 	1. Expense Date
 
-	2. Expense Purpose 
+	1. Expense Purpose 
 
-	3. Expense Type
+	1. Expense Type
 
-	4. Expense Amount
+	1. Expense Amount
 
-	5. Item Description
+	1. Item Description
 
 1. Select the **Save** button.
 
