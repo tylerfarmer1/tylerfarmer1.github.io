@@ -1,3 +1,8 @@
+---
+lab:
+    title: 'This is the Title for this lab'
+    module: 'This is the Module for this lab'
+---
 # PL-900 - Lab 1 - Data Modeling
 
 ## Scenario v8
