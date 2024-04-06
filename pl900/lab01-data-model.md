@@ -1,6 +1,6 @@
 # PL-900 - Lab 1 - Data Modeling
 
-## Scenario v9.3
+## Scenario v9.4
 
 Bellows College is an educational organization with multiple campuses and programs. Many of Bellow Colleges instructors and administrators need to attend events, and purchase items. Historically tracking these expenses has been a challenge. 
 
@@ -42,9 +42,9 @@ The **Expense Report** table will contain information about individual expenses 
 
 ### Task #2: Create Columns
 #### 1. Create Expense Date Column
-- Create a column named "Expense Date" that is type Date Only
-- Set it to "Business Required".
-- Also set the the "Time Zone Adjustment" as "Date Only."
+- Create a column named **Expense Date** that is type **Date Only**
+- Set it to **Business Required**.
+- Also set the the **Time Zone Adjustment as **Date Only**.
 
 
 <details>
@@ -52,12 +52,12 @@ The **Expense Report** table will contain information about individual expenses 
 
 <ol>
 
-<li>Select **+ New column**.</li>
-<li>Enter Expense Date for **Display name**.</li>
-<li>Select **Date only** for **Data type**.</li>
-<li>Change **Required**, to **Business required**.</li>
-<li>Expand **Advanced options**.</li>
-<li>In **Time zone adjustment**, select **Date Only**.</li>
+<li>Select <b>+ New column</b>.</li>
+<li>Enter <b>Expense Date</b> for <b>Display name</b>.</li>
+<li>Select <b>Date only</b> for <b>Data type</b>.</li>
+<li>Change <b>Required</b> to <b>Business required</b>.</li>
+<li>Expand <b>Advanced options</b>.</li>
+<li>In <b>Time zone adjustment</b>, select <b>Date Only</b>.</li>
 </ol>
 
 **Note:** We use **Date only** behavior to record date information, because date of the Expense Report should not change when viewed from a different time zone.
