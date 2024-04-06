@@ -17,7 +17,7 @@ Throughout this course, you will build applications and perform automation to en
 
 ## Prerequisites
 
-- Completion of **Lab 0 - Validate lab environment**
+- You have a Power Platform Developer Environment
 
 ## Exercise 1: Create New Table and Columns
 
