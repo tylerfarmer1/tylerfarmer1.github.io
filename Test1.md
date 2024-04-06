@@ -1,6 +1,6 @@
 # PL-900 - Lab 1 - Data Modeling
 
-## Scenario v7
+## Scenario v8
 
 Bellows College is an educational organization with multiple campuses and programs. Many of Bellow Colleges instructors and administrators need to attend events, and purchase items. Historically tracking these expenses has been a challenge. 
 
@@ -18,11 +18,11 @@ Throughout this course, you will build applications and perform automation to en
 
 - Completion of **Lab 0 - Validate lab environment**
 
-## Exercise 1: Create New Table
+## Exercise 1: Create New Table and Columns
 
-**Objective:** In this exercise, you will create a new custom table for Expenses.
+**Objective:** In this exercise, you will create a new custom table for Expense Reports and add appropriate columns.
 
-### Task #1: Create Expense Report Table and Columns
+### Task #1: Create Expense Report Table
 
 The **Expense Report** table will contain information about individual expenses that an employee can submit including reason, type, date, and amount.
 
@@ -40,6 +40,8 @@ The **Expense Report** table will contain information about individual expenses 
 
 1. Under the **Schema** section, select **Columns**.
 
+### Task #2: Create Columns
+
 1. #### Create Expense Date column
 
 	1. Select **+ New column**.
@@ -54,7 +56,7 @@ The **Expense Report** table will contain information about individual expenses 
 
 	1. In **Time zone adjustment**, select **Date Only**.
 
-	>**Note:** We use **Date only** behavior to record date information, because date of the visit should not change when viewed from a different time zone.
+	>**Note:** We use **Date only** behavior to record date information, because date of the Expense Report should not change when viewed from a different time zone.
 
 	1. Select **Save**.
 
@@ -139,7 +141,7 @@ The **Expense Report** table will contain information about individual expenses 
 
 1. Select the **Save** button.
 
-## Task #2: Add a sample record.
+### Task #2: Add a sample record.
 
 1. Select the **Arrow** next to **Edit**. From the menu that appears, select **Edit in new tab**.
 
