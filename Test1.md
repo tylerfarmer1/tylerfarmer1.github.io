@@ -1,6 +1,6 @@
-# Lab 1: Data Modeling
+# PL-900 - Lab 1 - Data Modeling
 
-## Scenario v6
+## Scenario v7
 
 Bellows College is an educational organization with multiple campuses and programs. Many of Bellow Colleges instructors and administrators need to attend events, and purchase items. Historically tracking these expenses has been a challenge. 
 
@@ -10,17 +10,13 @@ Throughout this course, you will build applications and perform automation to en
 
 ## High-level lab steps
 
-- Create Expense Report table
-
+- Create the Expense Report table
+- Create columns in the table
 - Add some sample data. 
 
 ## Prerequisites
 
 - Completion of **Lab 0 - Validate lab environment**
-
-Things to consider before you begin:
-
-- Naming conventions - enter names carefully!
 
 ## Exercise 1: Create New Table
 
@@ -129,7 +125,7 @@ The **Expense Report** table will contain information about individual expenses 
 
 1. Next to the **Name** column, select **+26 more**.
 
-1. From the menu that appears, select the following columns.
+1. From the menu that appears, select the following columns:
 
 	1. Expense Date
 
