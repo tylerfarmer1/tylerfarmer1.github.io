@@ -1,6 +1,6 @@
 # Lab 1: Data Modeling
 
-## Scenario v5
+## Scenario v6
 
 Bellows College is an educational organization with multiple campuses and programs. Many of Bellow Colleges instructors and administrators need to attend events, and purchase items. Historically tracking these expenses has been a challenge. 
 
@@ -14,7 +14,7 @@ Throughout this course, you will build applications and perform automation to en
 
 - Add some sample data. 
 
-### Prerequisites
+## Prerequisites
 
 - Completion of **Lab 0 - Validate lab environment**
 
@@ -44,7 +44,7 @@ The **Expense Report** table will contain information about individual expenses 
 
 1. Under the **Schema** section, select **Columns**.
 
-1. ### Create Expense Date column
+1. #### Create Expense Date column
 
 	1. Select **+ New column**.
 
@@ -80,7 +80,7 @@ The **Expense Report** table will contain information about individual expenses 
 
 	1. Select **Save**.
 
-1. ### Create Expense Purpose Column
+1. #### Create Expense Purpose Column
 
 	1. Select **+ New column**.
 
@@ -98,7 +98,7 @@ The **Expense Report** table will contain information about individual expenses 
 
 	1. Select **Save**.
 
-1. ### Create Item Description column
+1. #### Create Item Description column
 
 	1. Select **+ New column**.
 
@@ -108,7 +108,7 @@ The **Expense Report** table will contain information about individual expenses 
 
 	1. Select **Save**.
 
-1.  ### Create Expense Amount column
+1.  #### Create Expense Amount column
 
 	1. Select **+ New column**.
 
