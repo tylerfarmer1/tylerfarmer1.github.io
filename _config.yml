@@ -1,9 +1,8 @@
-sqremote_theme: MicrosoftLearning/Jekyll-Theme
+
 exclude:
   - readme.md
   - .github/
 header_pages:
-  - index.html
 author: Tyler Farmer, Esquire
 twitter_username: none
 github_username:  Tylerfarmer1
