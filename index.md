@@ -1,7 +1,11 @@
 # Please select a course below
 v2.4
 
-## [PL-900 - Power Platform Fundamentals](https://tylerfarmer1.github.io/pl900/index)
+first one has last slash, 2nd one does not.
+
+## [PL-900 - Power Platform Fundamentals](https://tylerfarmer1.github.io/pl900/)
+
+## [PL-900 - Power Platform Fundamentals](https://tylerfarmer1.github.io/pl900)
 
 ## [PL-100 - Power Platform App Maker](https://tylerfarmer1.github.io/pl100/index)
 
