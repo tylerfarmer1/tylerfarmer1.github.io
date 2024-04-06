@@ -44,7 +44,7 @@ The **Expense Report** table will contain information about individual expenses 
 #### 1. Create Expense Date Column
 - Create a column named **Expense Date** that is type **Date Only**
 - Set it to **Business Required**.
-- Also set the the **Time Zone Adjustment as **Date Only**.
+- Also set the the **Time Zone Adjustment** as **Date Only**.
 
 
 <details>
@@ -60,9 +60,9 @@ The **Expense Report** table will contain information about individual expenses 
 <li>In <b>Time zone adjustment</b>, select <b>Date Only</b>.</li>
 </ol>
 
-**Note:** We use **Date only** behavior to record date information, because date of the Expense Report should not change when viewed from a different time zone.
+<b>Note:</b> We use <b>Date only</b> behavior to record date information, because the date of the Expense Report should not change when viewed from a different time zone.
 
-7. Select **Save**.
+7. Select <b>Save.</b>
 </details>
 
 
