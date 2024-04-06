@@ -1,0 +1,17 @@
+remote_theme: MicrosoftLearning/Jekyll-Theme
+exclude:
+  - readme.md
+  - .github/
+header_pages:
+  - index.html
+author: Tyler Farmer
+twitter_username: none
+github_username:  Tylerfarmer1
+plugins:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jemoji
+markdown: kramdown
+kramdown:
+   syntax_highlighter_opts:
+      disable : true
