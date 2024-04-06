@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Lab 1: Data Modeling'
+    title: 'Tyler Lab 1: Data Modeling'
     module: 'Module 2: Introduction to Microsoft Dataverse'
 ---
 
@@ -11,7 +11,7 @@ If you are being provided with a tenant as a part of an instructor-led training 
 Tenants should not be shared or used for purposes outside of hands-on labs. The tenant used in this course is a trial tenant and cannot be used or accessed after the class is over and is not eligible for extension. 
 Tenants must not be converted to a paid subscription. Tenants obtained as a part of this course remain the property of Microsoft Corporation and we reserve the right to obtain access and repossess at any time. 
 
-## Scenario
+## Scenario by Tyler
 
 Bellows College is an educational organization with multiple campuses and programs. Many of Bellow Colleges instructors and administrators need to attend events, and purchase items. Historically tracking these expenses has been a challenge. 
 
