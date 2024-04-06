@@ -3,6 +3,7 @@ exclude:
   - readme.md
   - .github/
 header_pages:
+  - header1.html
 author: Tyler Farmer, Esquire
 twitter_username: none
 github_username:  Tylerfarmer1
