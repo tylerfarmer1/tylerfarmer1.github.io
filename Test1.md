@@ -1,6 +1,6 @@
 # Lab 1: Data Modeling
 
-## Scenario v2
+## Scenario v3
 
 Bellows College is an educational organization with multiple campuses and programs. Many of Bellow Colleges instructors and administrators need to attend events, and purchase items. Historically tracking these expenses has been a challenge. 
 
@@ -44,41 +44,41 @@ The **Expense Report** table will contain information about individual expenses 
 
 1. Under the **Schema** section, select **Columns**.
 
-### Create Expense Date column
+1. ### Create Expense Date column
 
-1. Select **+ New column**.
+	1. Select **+ New column**.
 
-1. Enter Expense Date for **Display name**.
+	1. Enter Expense Date for **Display name**.
 
-1. Select **Date only** for **Data type**.
+	1. Select **Date only** for **Data type**.
 
-1. Change **Required**, to **Business required**.
+	1. Change **Required**, to **Business required**.
 
-1. Expand **Advanced options**.
+	1. Expand **Advanced options**.
 
-1. In **Time zone adjustment**, select **Date Only**.
+	1. In **Time zone adjustment**, select **Date Only**.
 
 	>**Note:** We use **Date only** behavior to record date information, because date of the visit should not change when viewed from a different time zone.
 
-1. Select **Save**.
+	1. Select **Save**.
 
-### Create Expense Type Column
+1. ### Create Expense Type Column
 
-1. Select **+ New column**.
+	1. Select **+ New column**.
 
-1. Enter Expense Type for **Display name**.
+	1. Enter Expense Type for **Display name**.
 
-1. Select **Choice** for **Data type**.
+	1. Select **Choice** for **Data type**.
 
-1. In **Required**, select **Optional**.
+	1. In **Required**, select **Optional**.
 
-1. Set **Sync with global Choice** to **Yes (recommended)**
+	1. Set **Sync with global Choice** to **Yes (recommended)**
 
-1. In **Sync this choice with** field, select **Expense Type**.
+	1. In **Sync this choice with** field, select **Expense Type**.
 
-1. Set the **Default choice** field to **None**.
+	1. Set the **Default choice** field to **None**.
 
-1. Select **Save**.
+	1. Select **Save**.
 
 ### Create Expense Purpose Column
 
