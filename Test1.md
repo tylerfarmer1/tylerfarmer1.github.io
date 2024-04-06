@@ -1,17 +1,6 @@
----
-lab:
-    title: 'Tyler Lab 1: Data Modeling'
-    module: 'Module 2: Introduction to Microsoft Dataverse'
----
-
 # Lab 1: Data Modeling
 
-**WWL Tenants - Terms of Use**
-If you are being provided with a tenant as a part of an instructor-led training delivery, please note that the tenant is made available for the purpose of supporting the hands-on labs in the instructor-led training. 
-Tenants should not be shared or used for purposes outside of hands-on labs. The tenant used in this course is a trial tenant and cannot be used or accessed after the class is over and is not eligible for extension. 
-Tenants must not be converted to a paid subscription. Tenants obtained as a part of this course remain the property of Microsoft Corporation and we reserve the right to obtain access and repossess at any time. 
-
-## Scenario by Tyler
+## Scenario
 
 Bellows College is an educational organization with multiple campuses and programs. Many of Bellow Colleges instructors and administrators need to attend events, and purchase items. Historically tracking these expenses has been a challenge. 
 
@@ -19,41 +8,27 @@ Campus administration would like to modernize their expense reporting system by 
 
 Throughout this course, you will build applications and perform automation to enable the Bellows College employees to manage expenses.
 
-In this lab you will create a data model to support the following requirements:
-
-- R1 – Track information for scheduled campus visits.
-
-- R2 – Record basic information to identify and track the visitors.
-
-- R3 – Schedule, record, and manage visits.
-
-Finally, you will import sample data into Microsoft Dataverse.
-
 ## High-level lab steps
 
-To prepare your learning environments you will:
-
-- Refer to the [data model document](https://github.com/MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals/blob/master/Allfiles/Campus Management.png) for the metadata description (tables and relationships). You can hold ctrl + left-click or right-click the link to open the data model document in a new window.
-
-- Create Expense table
+- Create Expense Report table
 
 - Add some sample data. 
 
 ### Prerequisites
 
-- Completion of **Module 1 Lab 0 - Validate lab environment**
+- Completion of **Lab 0 - Validate lab environment**
 
-Things to consider before you begin
+Things to consider before you begin:
 
-- Naming conventions - enter names carefully.
+- Naming conventions - enter names carefully!
 
 ## Exercise 1: Create New Table
 
 **Objective:** In this exercise, you will create a new custom table for Expenses.
 
-### Task #1: Create Expenses Table and Columns
+### Task #1: Create Expense Report Table and Columns
 
-The **Expenses** table will contain information about individual expenses that an employee can submit including reason, type, date, and amount.
+The **Expense Report** table will contain information about individual expenses that an employee can submit including reason, type, date, and amount.
 
 1. If you are not already signed in, sign into https://make.powerapps.com
 
@@ -63,7 +38,7 @@ The **Expenses** table will contain information about individual expenses that a
 
 1. Select **+ New table** and choose **Set advanced properties**.
 
-1. For **Display name**, enter Expense
+1. For **Display name**, enter **Expense Report**.
 
 1. Select **Save**.
 
