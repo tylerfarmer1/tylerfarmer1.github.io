@@ -3,16 +3,11 @@
 
 ### [Lab 1 - Data Modeling](lab01-data-model)
    
-### [Lab 2 - x](lab02-x)
+### [Lab 2 - Creating a Canvas App](lab02-canvas-app)
 
-### [Lab 3 - x](lab03-x)
+### [Lab 3 - Creating a Model-Driven App](lab03-model-driven-app)
 
-### [Lab 4 - x](lab04-x)
+### [Lab 4 - Creating an Automated Workflow](lab04-automation)
 
-### [Lab 5 - x](lab05-x)
+### [Lab 5 - Creating a Simple Dashboard with Power BI](lab05-dashboard)
 
-### [Lab 6 - x](lab06-x)
-
-### [Lab 7 - x](lab07-x)
-
-### [Lab 8 - x](lab08-x)
