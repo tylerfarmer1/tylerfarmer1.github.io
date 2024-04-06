@@ -1,6 +1,7 @@
 # PL-900 - Lab 1 - Data Modeling
+v9.6
 
-### Scenario v9.5
+## Scenario
 
 Bellows College is an educational organization with multiple campuses and programs. Many of Bellow Colleges instructors and administrators need to attend events, and purchase items. Historically tracking these expenses has been a challenge. 
 
