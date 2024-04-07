@@ -6,7 +6,7 @@ lab:
 # PL-900 - Lab 0 - Getting Started
 v{{version}}
 
-## Exercise 1 - Setup Microsoft Edge
+## Exercise 1 - Setup Microsoft Edge and Power Platform
 
 ### Task 1 - Fix Edge Settings
 
@@ -46,6 +46,8 @@ v{{version}}
 1. You should have a page similar to this picture.
    
 ![Power Platform Maker Portal](pl900/media/image_02.png)
+![Power Platform Maker Portal](/media/image_02.png)
+![Power Platform Maker Portal](media/image_02.png)
 <br>
 
 8. In the upper-left is a gear icon.  Click it and select the **Admin Center.**  Notice that a new tab opens in your browser.  Close any pop-ups.
