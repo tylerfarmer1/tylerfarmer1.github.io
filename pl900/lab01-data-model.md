@@ -14,18 +14,6 @@ Bellows College is an educational organization with multiple campuses and progra
 Campus administration would like to modernize their expense reporting system by providing employees with a digital way to report expenses. 
 
 Throughout this course, you will build applications and perform automation to enable the Bellows College employees to manage expenses.
-<br>
-![small](/media/green_check_a.png)
-<br>
-![medium](/media/green_check_b.png)
-<br>
-![large](/media/green_check_c.png)
-<br>
-![phone](/media/green_check_d.png)
-<br>
-![tiny](/media/green_check_e.png)
-<br>
-
 ## High-level lab steps
 
 - Create the Expense Report table
@@ -185,5 +173,27 @@ The **Expense Report** table will contain information about individual expenses 
 
 1. Hit the Tab button to advance to the next row and **save** the record.
 
-Congratulations, you have successfully created a new table and added data.
+Congratulations, you have successfully created a new table and added data. 
 
+Turn on the Green Check in Zoom so I know you're finished!
+![Zoom Green Check Mark](https://tylerfarmer1.github.io/media/green_check_small.png)
+
+
+
+Congratulations, you have successfully created a new table and added data. 
+Turn on the Green Check in Zoom so I know you're finished!
+![Zoom Green Check Mark](https://tylerfarmer1.github.io/media/green_check_small.png)
+
+Congratulations, you have successfully created a new table and added data. 
+<br>
+Turn on the Green Check in Zoom so I know you're finished!
+<br>
+![Zoom Green Check Mark](https://tylerfarmer1.github.io/media/green_check_small.png)
+
+
+
+
+Congratulations, you have successfully created a new table and added data. 
+<br>
+Turn on the Green Check in Zoom so I know you're finished!
+![Zoom Green Check Mark](https://tylerfarmer1.github.io/media/green_check_small.png)
