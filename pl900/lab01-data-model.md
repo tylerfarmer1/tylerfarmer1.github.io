@@ -1,3 +1,9 @@
+---
+lab:
+    title: 'Lab 1: Data Modeling'
+    module: 'Module 2: Introduction to Microsoft Dataverse'
+---
+
 # PL-900 - Lab 1 - Data Modeling
 v9.6
 
