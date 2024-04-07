@@ -14,6 +14,17 @@ Bellows College is an educational organization with multiple campuses and progra
 Campus administration would like to modernize their expense reporting system by providing employees with a digital way to report expenses. 
 
 Throughout this course, you will build applications and perform automation to enable the Bellows College employees to manage expenses.
+<br>
+![small](/media/green_check_a.png)
+<br>
+![medium](/media/green_check_b.png)
+<br>
+![large](/media/green_check_c.png)
+<br>
+![phone](/media/green_check_d.png)
+<br>
+![tiny](/media/green_check_e.png)
+<br>
 
 ## High-level lab steps
 
@@ -45,7 +56,7 @@ The **Expense Report** table will contain information about individual expenses 
 
 1. Select **Save**.
 
-![A screenshot of the new solution pane](/media/green_check.png)
+
 
 1. Under the **Schema** section, select **Columns**.
 
