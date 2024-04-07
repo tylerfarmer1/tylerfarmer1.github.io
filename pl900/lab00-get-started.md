@@ -41,7 +41,7 @@ v{{version}}
 
 6. Also Edge has another pop-up, click **"Got it."**
 
-7. You should have a page similar to this picture.
+7. You should have a page similar to this picture.  If you get a pop-up about registering with a name and phone number, enter `0123456789` as the phone number.
    
 
 ![Power Platform Maker Portal](/media/image_02.png)
