@@ -6,9 +6,7 @@ lab:
 # PL-900 - Lab 0 - Getting Started
 v{{version}}
 
-## Exercise 1 - Setup Microsoft Edge and Power Platform
-
-### Task 1 - Fix Edge Settings
+## Exercise 1 - Microsoft Edge Settings
 
 1. Open Microsoft Edge.  If you get any pop-ups, close them.
    
@@ -25,7 +23,7 @@ v{{version}}
 1. Close Edge, then re-open it.   If you get a notification about how Edge has been updated to the latest version (or something like that), then close and re-open Edge one more time.
 
 <br><br>
-### Task 2 - Sign in to Power Apps
+## Exercise 2 - Sign in to Power Apps
 
 1. In the **"Green"** side of the instructions, click on the **Resources** tab.  Make note of where the **Administrative Username** and **Administrative Password** are; you'll need that information in the next steps.
 
@@ -37,23 +35,22 @@ v{{version}}
 
 3. Click **Next**, and do the same thing for the password.   
 
-1. You'll get a pop-up about **"Stay signed in?"**  Click **Yes.**
+4. You'll get a pop-up about **"Stay signed in?"**  Click **Yes.**
      
-1. There is a pop-up about **Sign in to Microosft Edge?** Click **No, thanks.**
+5. There is a pop-up about **Sign in to Microosft Edge?** Click **No, thanks.**
 
-1. Also Edge has another pop-up, click **"Got it."**
+6. Also Edge has another pop-up, click **"Got it."**
 
-1. You should have a page similar to this picture.
+7. You should have a page similar to this picture.
    
-![Power Platform Maker Portal](pl900/media/image_02.png)
+
 ![Power Platform Maker Portal](/media/image_02.png)
-![Power Platform Maker Portal](media/image_02.png)
 <br>
 
 8. In the upper-left is a gear icon.  Click it and select the **Admin Center.**  Notice that a new tab opens in your browser.  Close any pop-ups.
 
 <br><br>
-### Task 3 - Create an Environment
+## Exercise 3 - Create an Environment
 
 1. In the left navigaion click **Environments.**  You'll probably have 2 environments:  **"Dev One"** and **"Contoso (default.)"**
 
@@ -71,7 +68,7 @@ v{{version}}
 1. Do a "hard refresh" (**CTRL + F5**) in the browser.  Click on **Environment** in the upper-right and select your **XX Dev** Environment.
     - If you don't see it, do a hard refresh a few times.  If you still don't see it, let me know!
   
-![Power Platform Maker Portal](pl900/media/image_03.png)
+![Power Platform Maker Portal](/media/image_03.png)
 <br>
 
 <br>
