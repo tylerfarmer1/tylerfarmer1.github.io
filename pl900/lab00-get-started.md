@@ -27,10 +27,10 @@ v{{version}}
 
 1. In the **"Green"** side of the instructions, click on the **Resources** tab.  Make note of where the **Administrative Username** and **Administrative Password** are; you'll need that information in the next steps.
 
-1. In Edge, navigate to `https://make.powerapps.com`.  When asked for a username, click the **Green "T"** in the instructions by the Administrative Username and it should type it out for you.
+2. In Edge, navigate to `https://make.powerapps.com`.  When asked for a username, click the **Green "T"** in the instructions by the Administrative Username and it should type it out for you.
 
   > Note:     
-  > - You cannot copy/paste from your computer inside the lab computer.<br>
+  > - You **cannot** copy/paste from your computer inside the lab computer.<br>
   > - Clicking the **Green "T"** should type out any text following it.
 
 3. Click **Next**, and do the same thing for the password.   
@@ -54,18 +54,18 @@ v{{version}}
 
 1. In the left navigaion click **Environments.**  You'll probably have 2 environments:  **"Dev One"** and **"Contoso (default.)"**
 
-1. Click **+ New** in the command bar at the top.  Use these settings:
+2. Click **+ New** in the command bar at the top.  Use these settings:
     - For the **Name**, enter `XX Dev`  (use your initials instead of `XX`)
     - For the **Type**, change it to **Developer**
     - Click **Next** and then click **Save.** 
 
-1. After a minute, you'll see all 3 Environments.  The new one will have a **State** of **Preparing.**  Click the **Refresh** link in the command bar periodically until the State is **Ready.**
+3. After a minute, you'll see all 3 Environments.  The new one will have a **State** of **Preparing.**  Click the **Refresh** link in the command bar periodically until the State is **Ready.**
 
-1. Close that browser tab so you are back on the "maker" portal.
+4. Close that browser tab so you are back on the "maker" portal.
 
-1. If the "Settings" tab is still open on the right, close it.
+5. If the "Settings" tab is still open on the right, close it.
 
-1. Do a "hard refresh" (**CTRL + F5**) in the browser.  Click on **Environment** in the upper-right and select your **XX Dev** Environment.
+6. Do a "hard refresh" (**CTRL + F5**) in the browser.  Click on **Environment** in the upper-right and select your **XX Dev** Environment.
     - If you don't see it, do a hard refresh a few times.  If you still don't see it, let me know!
   
 ![Power Platform Maker Portal](/media/image_03.png)
@@ -73,7 +73,7 @@ v{{version}}
 
 <br>
 7. Once you're in the **XX Dev** environment, click the **"star"** in the browser by the address bar so you can save this as a Favorite, select **Favorites Bar** as the Folder and click **Done.**
-    - This will now be an icon whenever you open Edge or a new tab.
+    - This will now be an icon/shortcut whenever you open Edge or a new tab.
 
 <br><br>
 
