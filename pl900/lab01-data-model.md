@@ -173,18 +173,10 @@ The **Expense Report** table will contain information about individual expenses 
 
 1. Hit the Tab button to advance to the next row and **save** the record.
 
-Congratulations, you have successfully created a new table and added data. 
-
-Turn on the Green Check in Zoom so I know you're finished!
-![Zoom Green Check Mark](https://tylerfarmer1.github.io/media/green_check_small.png)
 
 
 
-Congratulations, you have successfully created a new table and added data. 
-Turn on the Green Check in Zoom so I know you're finished!
-![Zoom Green Check Mark](https://tylerfarmer1.github.io/media/green_check_small.png)
-
-Congratulations, you have successfully created a new table and added data. 
+V1: Congratulations, you have successfully created a new table and added data. 
 <br>
 Turn on the Green Check in Zoom so I know you're finished!
 <br>
@@ -192,8 +184,25 @@ Turn on the Green Check in Zoom so I know you're finished!
 
 
 
+V2: Congratulations, you have successfully created a new table and added data. 
 
-Congratulations, you have successfully created a new table and added data. 
-<br>
 Turn on the Green Check in Zoom so I know you're finished!
+
+![Zoom Green Check Mark](https://tylerfarmer1.github.io/media/green_check_small.png)
+
+
+
+V3: Congratulations, you have successfully created a new table and added data. 
+
+Turn on the Green Check in Zoom so I know you're finished!
+<br>
+![Zoom Green Check Mark](https://tylerfarmer1.github.io/media/green_check_small.png)
+
+
+
+
+V4: Congratulations, you have successfully created a new table and added data. 
+
+Turn on the Green Check in Zoom so I know you're finished!
+<br><br>
 ![Zoom Green Check Mark](https://tylerfarmer1.github.io/media/green_check_small.png)
