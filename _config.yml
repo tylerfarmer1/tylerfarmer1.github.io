@@ -1,7 +1,7 @@
 # remote_theme: pages-themes/cayman@v0.2.0
 # remote_theme: pages-themes/dinky@v0.2.0
 # remote_theme: MicrosoftLearning/Jekyll-Theme
-theme: mimima
+remote_theme: mimima
 exclude:
   - readme.md
   - .github/
