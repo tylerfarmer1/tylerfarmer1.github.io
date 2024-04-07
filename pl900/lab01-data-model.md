@@ -5,8 +5,8 @@ lab:
 ---
 
 # PL-900 - Lab 1 - Data Modeling
-{{version}}
-{version}
+v{{page.version}}
+
 
 ## Scenario
 
@@ -176,6 +176,9 @@ The **Expense Report** table will contain information about individual expenses 
 
 
 
+
+
+### Wrap up:  
 Congratulations, you have successfully created a new table and added data. 
 
 Turn on the Green Check in Zoom so I know you're finished!
