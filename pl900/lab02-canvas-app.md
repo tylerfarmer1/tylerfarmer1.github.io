@@ -1,5 +1,5 @@
 # PL-900 - Lab 2 - Building a Canvas App
-v2.6.2
+v2.6.3
 
 ## Scenario
 
@@ -41,6 +41,17 @@ Throughout this course, you will build applications and perform automation to en
 > 2. Locate **Microsoft Dataverse**
 > 3. Select **Create**
 > 4. **Sign in** and select **Allow access**
+
+<br>
+
+
+> [!INFORMATION]
+> If a Dataverse connection does **not** exist:
+> 1. Select **+ New connection**
+> 2. asdf
+> 3. adsf
+> 4. asdf
+
 
 <br>
 
@@ -103,6 +114,9 @@ In this task, you will test out your new app.
 1. Once the **Trip to Power Platform Conference** record is displayed, select a row to navigate and open the Details screen for that Expense.
  
     >**Note**: If more than one Trip to Power Platform Conference record is displayed, select any of them.
+    >
+
+> [!NOTE] If more than one Trip to Power Platform Conference record is displayed, select any of them.
    
 1. To edit the record, select the **Pencil Icon** in the upper right corner of the app.
 
