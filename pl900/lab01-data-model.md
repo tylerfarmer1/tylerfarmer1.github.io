@@ -1,11 +1,12 @@
 ---
 lab:
     title: 'Lab 1: Data Modeling'
-    module: 'Module 2: Introduction to Microsoft Dataverse'
+    version: '9.6'
 ---
 
 # PL-900 - Lab 1 - Data Modeling
-v9.6
+{{version}}
+{version}
 
 ## Scenario
 
@@ -175,34 +176,8 @@ The **Expense Report** table will contain information about individual expenses 
 
 
 
-
-V1: Congratulations, you have successfully created a new table and added data. 
-<br>
-Turn on the Green Check in Zoom so I know you're finished!
-<br>
-![Zoom Green Check Mark](https://tylerfarmer1.github.io/media/green_check_small.png)
-
-
-
-V2: Congratulations, you have successfully created a new table and added data. 
-
-Turn on the Green Check in Zoom so I know you're finished!
-
-![Zoom Green Check Mark](https://tylerfarmer1.github.io/media/green_check_small.png)
-
-
-
-V3: Congratulations, you have successfully created a new table and added data. 
+Congratulations, you have successfully created a new table and added data. 
 
 Turn on the Green Check in Zoom so I know you're finished!
 <br>
-![Zoom Green Check Mark](https://tylerfarmer1.github.io/media/green_check_small.png)
-
-
-
-
-V4: Congratulations, you have successfully created a new table and added data. 
-
-Turn on the Green Check in Zoom so I know you're finished!
-<br><br>
 ![Zoom Green Check Mark](https://tylerfarmer1.github.io/media/green_check_small.png)
