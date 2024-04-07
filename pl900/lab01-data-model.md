@@ -5,8 +5,14 @@ lab:
 ---
 
 # PL-900 - Lab 1 - Data Modeling
-v{{page.version}}
-
+a{{page.version}} 
+b {{page.version}} 
+c  {{page.version}} 
+d {{ page.version }}
+e{page.version} 
+f {page.version} 
+g  {page.version} 
+h { page.version }
 
 ## Scenario
 
