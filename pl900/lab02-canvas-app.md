@@ -1,5 +1,5 @@
 # PL-900 - Lab 2 - Building a Canvas App
-v2.6.3
+v2.6.4
 
 ## Scenario
 
@@ -45,7 +45,7 @@ Throughout this course, you will build applications and perform automation to en
 <br>
 
 
-> [!INFORMATION]
+> [!IMPORTANT]
 > If a Dataverse connection does **not** exist:
 > 1. Select **+ New connection**
 > 2. asdf
@@ -116,8 +116,13 @@ In this task, you will test out your new app.
     >**Note**: If more than one Trip to Power Platform Conference record is displayed, select any of them.
     >
 
-> [!NOTE] If more than one Trip to Power Platform Conference record is displayed, select any of them.
-   
+> [!NOTE]
+> If more than one Trip to Power Platform Conference record is displayed, select any of them.
+
+
+> [!TIP]
+> If more than one Trip to Power Platform Conference record is displayed, select any of them.
+
 1. To edit the record, select the **Pencil Icon** in the upper right corner of the app.
 
 1. You can edit the **Report Name** here and select the **Checkmark** icon in the top right to save the change.
