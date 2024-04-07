@@ -1,6 +1,7 @@
 # remote_theme: pages-themes/cayman@v0.2.0
 # remote_theme: pages-themes/dinky@v0.2.0
 # remote_theme: MicrosoftLearning/Jekyll-Theme
+theme: mimima
 exclude:
   - readme.md
   - .github/
@@ -9,6 +10,8 @@ exclude:
 author: Tyler Farmer
 plugins:
   - jekyll-sitemap
+  - jekyll-fed
+  - jekyll-seo-tag
   - jekyll-mentions
   - jemoji
   - jekyll-remote-theme # add this line to the plugins list if you already have one
