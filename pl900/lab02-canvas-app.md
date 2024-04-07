@@ -1,11 +1,5 @@
----
-lab:
-    title: 'Lab 2: How to build a canvas app'
-    module: 'Module 3: Get started with Power Apps'
----
-
 # PL-900 - Lab 2 - Building a Canvas App
-v2.5
+v2.6.1
 
 ## Scenario
 
@@ -25,48 +19,6 @@ Throughout this course, you will build applications and perform automation to en
 
 - Completion of **Lab 1 - Data Modeling**
 
-
-
-
-
-
-
-
-
-
-
-# Lab 2: How to build a canvas app
-
-**WWL Tenants - Terms of Use**
-If you are being provided with a tenant as a part of an instructor-led training delivery, please note that the tenant is made available for the purpose of supporting the hands-on labs in the instructor-led training. 
-Tenants should not be shared or used for purposes outside of hands-on labs. The tenant used in this course is a trial tenant and cannot be used or accessed after the class is over and is not eligible for extension. 
-Tenants must not be converted to a paid subscription. Tenants obtained as a part of this course remain the property of Microsoft Corporation and we reserve the right to obtain access and repossess at any time. 
-
-## Scenario
-
-Bellows College is an educational organization with multiple campuses and programs. Many of Bellow Colleges instructors and administrators need to attend events, and purchase items. Historically tracking these expenses has been a challenge. 
-
-Campus administration would like to modernize their expense reporting system by providing employees with a digital way to report expenses. 
-
-Throughout this course, you will build applications and perform automation to enable the Bellows College employees to manage expenses. 
-
-
-## High-level lab steps
-
-We will follow the below outline to design the canvas app:
-
-- Create a canvas app from data in the Visit table
-
-- Configure how the visits are shown on the browse screen
-
-- Make some basic changes to the app
-
-- Test the app functionality
-
-## Prerequisites
-
-- Completion of **Module 1 Lab 0 - Validate lab environment**
-
 ## Exercise 1: Create Expense Reports Canvas app
 
 ### Objective: In this exercise, you will create a canvas app by connecting to an Expense Reports table.
@@ -82,18 +34,18 @@ We will follow the below outline to design the canvas app:
 1. Select **+ Create** from the left navigation of the screen. Under the **Start from** section, select **Dataverse**.
 
 1. Select your Dataverse connection.
+<br>
 
-    >**Note**: If a Dataverse connection does not exist:
+> [!IMPORTANT]
+> If a Dataverse connection does **not** exist:
+>   1. Select **+New connection**
+>   2. Locate **Microsoft Dataverse**
+>   3. Select **Create**
+>   4. **Sign in** and select **Allow access**
 
-    >	- Select **+New connection**
+<br>
 
-    >	- Locate **Microsoft Dataverse**
-
-    >	- Select **Create**
-
-    >	- **Sign in** and select **Allow access**
-
-1. Locate and select the **Expense reports** table.
+6. Locate and select the **Expense reports** table.
 
 1. Select the **Connect** button in the bottom right corner.
 
@@ -101,7 +53,7 @@ We will follow the below outline to design the canvas app:
 
 1. In the app designer, select the **Preview the app** button (Play icon) on the command bar. (You can also preview the app by pressing F5.) Take a look around and see how your app looks out-of-the-box.
 
-1. Close the app preview by selecting the **X** in the upper right of the screen.
+1. Close the app preview by selecting the `X` in the upper right of the screen.
 
 Congratulations, you have successfully created a Power App from a Dataverse table. The next step in the process is to tailor the app to match your organizations branding. The next series of steps will walk you through providing some extra customization to the app.
 
@@ -152,6 +104,9 @@ In this task, you will test out your new app.
 1. Once the **Trip to Power Platform Conference** record is displayed, select a row to navigate and open the Details screen for that Expense.
  
     >**Note**: If more than one Trip to Power Platform Conference record is displayed, select any of them.
+   
+> [!NOTE]
+>  If more than one Trip to Power Platform Conference record is displayed, select any of them.
 
 1. To edit the record, select the **Pencil Icon** in the upper right corner of the app.
 
