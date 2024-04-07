@@ -3,16 +3,9 @@ lab:
     title: 'Lab 1: Data Modeling'
     version: '9.6'
 ---
-
+{% assign version = "2.5" %}
 # PL-900 - Lab 1 - Data Modeling
-a{{page.version}} 
-b {{page.version}} 
-c  {{page.version}} 
-d {{ page.version }}
-e{page.version} 
-f {page.version} 
-g  {page.version} 
-h { page.version }
+This is version {{ version }}
 
 ## Scenario
 
