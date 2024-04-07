@@ -1,18 +1,17 @@
 # remote_theme: pages-themes/cayman@v0.2.0
 # remote_theme: pages-themes/dinky@v0.2.0
 # remote_theme: MicrosoftLearning/Jekyll-Theme
-theme: jekyll-theme-mimima
+remote_theme: pages-themes/minimal@v0.2.0
 exclude:
   - readme.md
   - .github/
 #header_pages:
 #  - header1.html
 author: Tyler Farmer
+title: Lab Instructions
 plugins:
   - jekyll-sitemap
   - jekyll-fed
-  - jekyll-seo-tag
-  - jekyll-mentions
   - jemoji
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 markdown: kramdown
