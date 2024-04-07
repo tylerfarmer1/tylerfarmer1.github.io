@@ -45,6 +45,8 @@ The **Expense Report** table will contain information about individual expenses 
 
 1. Select **Save**.
 
+![A screenshot of the new solution pane](/media/green_check.png)
+
 1. Under the **Schema** section, select **Columns**.
 
 ### Task #2: Create Columns
