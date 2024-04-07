@@ -67,9 +67,15 @@ v{{version}}
 
 6. Do a "hard refresh" (**CTRL + F5**) in the browser.  Click on **Environment** in the upper-right and select your **XX Dev** Environment.
     - If you don't see it, do a hard refresh a few times.  If you still don't see it, let me know!
-  
+
+<br>
 ![Power Platform Maker Portal](/media/image_03.png)
 <br>
+
+<br>
+    ![Power Platform Maker Portal](/media/image_03.png)
+<br>
+
 
 <br>
 7. Once you're in the **XX Dev** environment, click the **"star"** in the browser by the address bar so you can save this as a Favorite, select **Favorites Bar** as the Folder and click **Done.**
