@@ -2,7 +2,7 @@
 lab:
     title: 'Lab 0: Get Started'
 ---
-{% assign version = "2.1" %}
+{% assign version = "2.2" %}
 # PL-900 - Lab 0 - Getting Started
 v{{version}}
 
@@ -33,7 +33,7 @@ v{{version}}
   > - You **cannot** copy/paste from your computer inside the lab computer.<br>
   > - Clicking the **Green "T"** should type out any text following it.
 
-3. Click **Next**, and do the same thing for the password.   
+3-Click **Next**, and do the same thing for the password.   
 
 4. You'll get a pop-up about **"Stay signed in?"**  Click **Yes.**
      
@@ -72,9 +72,7 @@ v{{version}}
 ![Power Platform Maker Portal](/media/image_03.png)
 <br>
 
-<br>
-    ![Power Platform Maker Portal](/media/image_03.png)
-<br>
+
 
 
 <br>
@@ -91,7 +89,5 @@ Congratulations, you have successfully completed this lab!
 Turn on the Green Check in Zoom so I know you're finished.
 <br>
 ![Zoom Green Check Mark](https://tylerfarmer1.github.io/media/green_check_small.png)
-
-
 
 
