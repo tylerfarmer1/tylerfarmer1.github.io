@@ -1,6 +1,8 @@
 # Labs for PL-900: Power Platform Fundamentals
 04/06/2024
 
+### [Lab 0 - Getting Started](lab00-get-started)
+
 ### [Lab 1 - Data Modeling](lab01-data-model)
    
 ### [Lab 2 - Creating a Canvas App](lab02-canvas-app)
